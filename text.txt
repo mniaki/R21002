@@ -1,0 +1,7 @@
+my list
+
+
+1- egg
+2-salt
+3-sugar
+4-cheese
